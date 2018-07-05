@@ -1,0 +1,23 @@
+﻿  DoubleLinkedList.cpp
+c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(5): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(10): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(6): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(6): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(10): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\link.h(91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(45): note: see reference to function template instantiation 'T *Link<T>::FindNext<int>(const Arg &)' being compiled
+          with
+          [
+              T=Node,
+              Arg=int
+          ]
+  c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\doublelinkedlist.cpp(45): note: see reference to function template instantiation 'T *Link<T>::FindNext<int>(const Arg &)' being compiled
+          with
+          [
+              T=Node,
+              Arg=int
+          ]
+c:\users\hampz\onedrive\school\advanced c++\doublelinkedlist\doublelinkedlist\link.h(95): warning C4715: 'Link<Node>::FindNext<int>': not all control paths return a value
+  DoubleLinkedList.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\DoubleLinkedList\Debug\DoubleLinkedList.exe
+  DoubleLinkedList.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\DoubleLinkedList\Debug\DoubleLinkedList.pdb (Partial PDB)

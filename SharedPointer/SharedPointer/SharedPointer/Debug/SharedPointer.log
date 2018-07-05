@@ -1,0 +1,12 @@
+﻿  SharedPointer.cpp
+c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(1): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(9): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(4): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(9): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(5): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\sharedpointer\sharedpointer\sharedpointer\sharedpointer.cpp(9): note: use of precompiled header
+  SharedPointer.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\SharedPointer\SharedPointer\Debug\SharedPointer.exe
+  SharedPointer.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\SharedPointer\SharedPointer\Debug\SharedPointer.pdb (Partial PDB)

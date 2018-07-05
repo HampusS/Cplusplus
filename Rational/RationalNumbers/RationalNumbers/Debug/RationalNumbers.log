@@ -1,0 +1,13 @@
+﻿  RationalNumbers.cpp
+c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(3): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(8): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(4): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(8): note: use of precompiled header
+c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rational.h(16): warning C4244: 'initializing': conversion from 'const __int64' to 'short', possible loss of data
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(66): note: see reference to function template instantiation 'Rational<short>::Rational<__int64>(const Rational<__int64>)' being compiled
+  c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rationalnumbers.cpp(66): note: see reference to function template instantiation 'Rational<short>::Rational<__int64>(const Rational<__int64>)' being compiled
+c:\users\hampz\onedrive\school\advanced c++\rational\rationalnumbers\rationalnumbers\rational.h(49): warning C4172: returning address of local variable or temporary: temp
+  RationalNumbers.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\Rational\RationalNumbers\Debug\RationalNumbers.exe
+  RationalNumbers.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\Rational\RationalNumbers\Debug\RationalNumbers.pdb (Partial PDB)

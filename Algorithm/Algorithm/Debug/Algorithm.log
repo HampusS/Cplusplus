@@ -1,0 +1,5 @@
+﻿  Algorithm.cpp
+c:\users\hampz\onedrive\school\advanced c++\algorithm\algorithm\algorithm.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\hampz\onedrive\school\advanced c++\algorithm\algorithm\algorithm.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  Algorithm.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\Algorithm\Debug\Algorithm.exe
+  Algorithm.vcxproj -> C:\Users\hampz\OneDrive\School\Advanced C++\Algorithm\Debug\Algorithm.pdb (Partial PDB)

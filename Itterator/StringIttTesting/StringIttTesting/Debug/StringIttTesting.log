@@ -1,0 +1,12 @@
+﻿  StringIttTesting.cpp
+c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(3): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(11): note: use of precompiled header
+c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(6): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(6): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(11): note: use of precompiled header
+c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(7): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(7): note: Add macro to precompiled header instead of defining here
+  c:\users\hampz\source\repos\stringitttesting\stringitttesting\stringitttesting.cpp(11): note: use of precompiled header
+  StringIttTesting.vcxproj -> C:\Users\hampz\source\repos\StringIttTesting\Debug\StringIttTesting.exe
+  StringIttTesting.vcxproj -> C:\Users\hampz\source\repos\StringIttTesting\Debug\StringIttTesting.pdb (Partial PDB)
